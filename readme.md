@@ -1,8 +1,8 @@
-### Cinema 
+# Cinema 
 
-# le nom d'utilisateur et le mot de passe pour la connexion à l'interface wp-admin sont :
+### le nom d'utilisateur et le mot de passe pour la connexion à l'interface wp-admin sont :
 
-password  :  Admin123@
+    password  :  Admin123@
 
-Username  : Admin
+    Username  : Admin
 
